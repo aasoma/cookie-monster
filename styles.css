@@ -37,3 +37,36 @@ h1{
     display: inline-block;
     font-size: 16px;
 }
+
+#oatmeal {
+    width: 500px;
+    height: 500px;
+}
+
+#sugar {
+    width: 500px;
+    height: 500px;
+}
+
+#snickerdoodle {
+    width: 500px;
+    height: 500px;
+}
+
+#peanutbutter {
+    width: 500px;
+    height: 500px;
+}
+
+#guy-fieri {
+    width: 600px;
+    height: 600px;
+}
+
+body {
+    background-color: orange;
+}
+
+#text {
+    font-size: 30pt;
+}
